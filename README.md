@@ -15,8 +15,6 @@ The console is the first segment of the AirBnB_clone_v4 project at Alx School's 
 - [Environment](#environment)
 - [Installation](#installation)
 - [File Descriptions](#file-descriptions)
-- [Usage](#usage)
-- [Examples of Use](#examples-of-use)
 - [Bugs](#bugs)
 - [Authors](#authors)
 - [License](#license)
